@@ -1,0 +1,26 @@
+{
+  "name": "pt-search",
+  "main": "./lib/pt-search",
+  "version": "0.1.0",
+  "description": "Fast search using the platinum searcher (pt)",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "pt-search:pt"
+  },
+  "repository": "https://github.com/spren9er/pt-search",
+  "license": "MIT",
+  "author": "Torsten Sprenger (github.com/spren9er)",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "configSchema": {
+    "pt-path": {
+      "type": "string",
+      "default": "/usr/local/bin",
+      "title": "Path to the platinum searcher",
+      "description": "Path to `pt` executable, default is `/usr/local/bin`"
+    }
+  },
+  "dependencies": {
+  }
+}

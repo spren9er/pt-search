@@ -1,0 +1,8 @@
+{
+  ".platform-darwin": {
+    "cmd-shift-alt-F": "pt-search:pt"
+  },
+  ".platform-win32, .platform-linux": {
+    "ctrl-shift-alt-F": "pt-search:pt"
+  }
+}
