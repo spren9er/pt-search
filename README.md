@@ -21,4 +21,4 @@ The shortcut invokes the command `pt-search:pt`, which opens the *Find in Projec
 
 ## Acknowlegdements
 
-The rudimentary code base is used from the excellent Atom package [https://github.com/antelle/atom-codesearch](https://github.com/antelle/atom-codesearch), which has been adapted for usage of `pt`.
+The rudimentary code is used from the excellent Atom package [https://github.com/antelle/atom-codesearch](https://github.com/antelle/atom-codesearch), which has been adapted for usage of `pt`.
