@@ -1,7 +1,7 @@
 {
   "name": "pt-search",
   "main": "./lib/pt-search",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fast search using the platinum searcher (pt)",
   "keywords": [
     "pt",
