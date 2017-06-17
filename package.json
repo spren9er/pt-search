@@ -1,7 +1,7 @@
 {
   "name": "pt-search",
   "main": "./lib/pt-search",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Fast search using the platinum searcher (pt)",
   "keywords": [],
   "activationCommands": {
@@ -21,6 +21,5 @@
       "description": "Path to `pt` executable, default is `/usr/local/bin`"
     }
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
