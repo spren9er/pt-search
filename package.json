@@ -3,7 +3,7 @@
   "main": "./lib/pt-search",
   "version": "0.1.0",
   "description": "Fast search using the platinum searcher (pt)",
-  "keywords": [],
+  "keywords": ["pt", "the platinum searcher", "fast search", "fast find-and-replace"],
   "activationCommands": {
     "atom-workspace": "pt-search:pt"
   },
